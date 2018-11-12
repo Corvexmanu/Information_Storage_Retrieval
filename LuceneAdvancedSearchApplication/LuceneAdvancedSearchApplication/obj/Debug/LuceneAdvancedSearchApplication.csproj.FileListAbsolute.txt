@@ -1,0 +1,291 @@
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 6\Working\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\LuceneAdvancedSearchApplication.exe.config
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 6\Working\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\LuceneAdvancedSearchApplication.exe
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 6\Working\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\LuceneAdvancedSearchApplication.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 6\Working\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.dll
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 6\Working\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 6\Working\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.exe
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 6\Working\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 6\Working\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.Contrib.Analyzers.dll
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 6\Working\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.Contrib.Snowball.dll
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 6\Working\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.Contrib.Analyzers.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 6\Working\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.Contrib.Snowball.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 6\Questions\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\LuceneAdvancedSearchApplication.exe.config
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 6\Questions\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.exe
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 6\Questions\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 6\Questions\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\LuceneAdvancedSearchApplication.exe
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 6\Questions\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\LuceneAdvancedSearchApplication.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 6\Questions\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.Contrib.Analyzers.dll
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 6\Questions\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.Contrib.Snowball.dll
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 6\Questions\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.dll
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 6\Questions\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 6\Questions\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.Contrib.Analyzers.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 6\Questions\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.Contrib.Snowball.pdb
+C:\Users\Alan\Desktop\Teaching\ITN647 - Advanced IR\Pracs\Week 6\Questions\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.csprojResolveAssemblyReference.cache
+D:\Desktop\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\LuceneAdvancedSearchApplication.exe.config
+D:\Desktop\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\LuceneAdvancedSearchApplication.exe
+D:\Desktop\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\LuceneAdvancedSearchApplication.pdb
+D:\Desktop\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Desktop\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.dll
+D:\Desktop\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.pdb
+D:\Desktop\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.xml
+D:\Desktop\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.Contrib.Analyzers.pdb
+D:\Desktop\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.Contrib.Snowball.pdb
+D:\Desktop\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.csprojResolveAssemblyReference.cache
+D:\Desktop\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.csproj.CoreCompileInputs.cache
+D:\Desktop\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.csproj.CopyComplete
+D:\Desktop\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.exe
+D:\Desktop\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.pdb
+C:\Users\JamesC\Source\Repos\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\LuceneAdvancedSearchApplication.exe.config
+C:\Users\JamesC\Source\Repos\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\LuceneAdvancedSearchApplication.exe
+C:\Users\JamesC\Source\Repos\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\LuceneAdvancedSearchApplication.pdb
+C:\Users\JamesC\Source\Repos\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\JamesC\Source\Repos\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.dll
+C:\Users\JamesC\Source\Repos\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.pdb
+C:\Users\JamesC\Source\Repos\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.xml
+C:\Users\JamesC\Source\Repos\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.Contrib.Analyzers.pdb
+C:\Users\JamesC\Source\Repos\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.Contrib.Snowball.pdb
+C:\Users\JamesC\Source\Repos\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.csprojResolveAssemblyReference.cache
+C:\Users\JamesC\Source\Repos\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.csproj.CoreCompileInputs.cache
+C:\Users\JamesC\Source\Repos\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.csproj.CopyComplete
+C:\Users\JamesC\Source\Repos\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.exe
+C:\Users\JamesC\Source\Repos\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.pdb
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\LuceneAdvancedSearchApplication.exe.config
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\LuceneAdvancedSearchApplication.exe
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\LuceneAdvancedSearchApplication.pdb
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.pdb
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.xml
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.Contrib.Analyzers.pdb
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.Contrib.Snowball.pdb
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.csprojResolveAssemblyReference.cache
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.csproj.CoreCompileInputs.cache
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.exe
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.pdb
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.csproj.GenerateResource.Cache
+C:\Users\JamesC\Source\Repos\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.GUIForm.resources
+C:\Users\JamesC\Source\Repos\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.csproj.GenerateResource.cache
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\LuceneAdvancedSearchApplication.exe.config
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\LuceneAdvancedSearchApplication.exe
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\LuceneAdvancedSearchApplication.pdb
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.pdb
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.xml
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.Contrib.Analyzers.pdb
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.Contrib.Snowball.pdb
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.csprojResolveAssemblyReference.cache
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.csproj.GenerateResource.cache
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.csproj.CoreCompileInputs.cache
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.csproj.CopyComplete
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.exe
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.pdb
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\LuceneAdvancedSearchApplication.exe.config
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\LuceneAdvancedSearchApplication.exe
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\LuceneAdvancedSearchApplication.pdb
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.pdb
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.xml
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.Contrib.Analyzers.pdb
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.Contrib.Snowball.pdb
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.csprojResolveAssemblyReference.cache
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.csproj.GenerateResource.Cache
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.csproj.CoreCompileInputs.cache
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.exe
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.pdb
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.BuildIndexGUIForm.resources
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.SearchGUIForm.resources
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.BuildIndexGUIForm.resources
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.SearchGUIForm.resources
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.BuildIndexGUIForm.resources
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.SearchGUIForm.resources
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Syn.WordNet.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Syn.WordNet.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Syn.WordNet.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.Runtime.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\stanford-postagger-3.9.1.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.Runtime.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\stanford-postagger-3.9.1.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.AdvancedSearchGUI.resources
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.AWT.WinForms.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Beans.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Corba.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Localedata.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Management.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Media.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Misc.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Naming.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Remoting.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Tools.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.Runtime.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.Runtime.JNI.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\stanford-postagger-3.9.1.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.AdvancedSearchGUI.resources
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.AdvancedSearchGUI.resources
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Microsoft.Azure.CognitiveServices.Language.SpellCheck.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Newtonsoft.Json.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\System.Net.Http.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+D:\IR\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Microsoft.Azure.CognitiveServices.Language.SpellCheck.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\System.Net.Http.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\n9802614\Documents\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\LuceneAdvancedSearchApplication.exe.config
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\LuceneAdvancedSearchApplication.exe
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\LuceneAdvancedSearchApplication.pdb
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.Runtime.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Microsoft.Azure.CognitiveServices.Language.SpellCheck.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\stanford-postagger-3.9.1.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Syn.WordNet.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\System.Net.Http.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.pdb
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.xml
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.Contrib.Analyzers.pdb
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Lucene.Net.Contrib.Snowball.pdb
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.csprojAssemblyReference.cache
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.AdvancedSearchGUI.resources
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.BuildIndexGUIForm.resources
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.SearchGUIForm.resources
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.csproj.GenerateResource.cache
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.csproj.CoreCompileInputs.cache
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.csproj.CopyComplete
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.exe
+C:\Users\jchou\Desktop\IR project\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\obj\Debug\LuceneAdvancedSearchApplication.pdb
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Microsoft.Azure.CognitiveServices.Language.SpellCheck.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\System.Net.Http.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\corve\OneDrive\Documentos\GitHub\ifn647-project\LuceneAdvancedSearchApplication\LuceneAdvancedSearchApplication\bin\Debug\Newtonsoft.Json.xml
