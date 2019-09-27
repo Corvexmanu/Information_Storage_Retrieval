@@ -129,10 +129,10 @@ namespace LuceneAdvancedSearchApplication
                 //Retrieving values indexed as TEXT
                 string text = result[0];    // Get whole text from input list
                 int indexI = text.IndexOf(".I ") + 3;   // Get ID starting index
-                int indexT = text.IndexOf(".T\n");    // Get title starting index
-                int indexA = text.IndexOf(".A\n");    // Get author starting index
-                int indexB = text.IndexOf(".B\n");    // Get bibliography starting index
-                int indexW = text.IndexOf(".W\n");    // Get words starting index
+                int indexT = text.IndexOf(".T\r\n");    // Get title starting index
+                int indexA = text.IndexOf(".A\r\n");    // Get author starting index
+                int indexB = text.IndexOf(".B\r\n");    // Get bibliography starting index
+                int indexW = text.IndexOf(".W\r\n");    // Get words starting index
                 string id = text.Substring(indexI, indexT - 1 - indexI);    // Get ID string
                 string title = text.Substring(indexT + 3, ((indexA - 1 - (indexT + 3)) > 0) ? (indexA - 1 - (indexT + 3)) : 0);     // Get title string
                 string author = text.Substring(indexA + 3, ((indexB - 1 - (indexA + 3)) > 0) ? (indexB - 1 - (indexA + 3)) : 0);    // Get author string
@@ -141,7 +141,7 @@ namespace LuceneAdvancedSearchApplication
                 
 
                 //Handling issues in the abstract to display it
-                abst = abst.Replace("\n", " ");  // Replace abstract LF
+                abst = abst.Replace("\r\n", " ");  // Replace abstract LF
                 Regex rx = new Regex("^.*?[.?!]", RegexOptions.Compiled | RegexOptions.IgnoreCase);     // Set the RE to match first sentence of abstract
                 MatchCollection abst_first = rx.Matches(abst);   // Get RE match for first sentence of abstract
                 string abst_fir = "";   // Create first sentence variable
@@ -242,7 +242,7 @@ namespace LuceneAdvancedSearchApplication
                     string text = reader.ReadToEnd();   // Read the whole text file
 
                     Regex rxi = new Regex(".I ", RegexOptions.Compiled);     // Set the RE to match first sentence of abstract
-                    Regex rxd = new Regex(".D\n", RegexOptions.Compiled);
+                    Regex rxd = new Regex(".D\r\n", RegexOptions.Compiled);
                     MatchCollection abst_i = rxi.Matches(text);
                     MatchCollection abst_d = rxd.Matches(text);
 
@@ -251,8 +251,8 @@ namespace LuceneAdvancedSearchApplication
                         string[] sub = text.Split(new string[] { ".I " }, StringSplitOptions.RemoveEmptyEntries);   // Split by ".I "
                         foreach (string need in sub)       // Loop through each query
                         {
-                            int indexD = text.IndexOf(".D\n");   // Get Description starting index
-                            dic.Add(need.Substring(0, indexD - 4), need.Substring(indexD).Replace("\n", " ").TrimEnd('\n'));     // Add ID and Description into dictionary as pairs
+                            int indexD = text.IndexOf(".D\r\n");   // Get Description starting index
+                            dic.Add(need.Substring(0, indexD - 4), need.Substring(indexD).Replace("\r\n", " ").TrimEnd('\n'));     // Add ID and Description into dictionary as pairs
                         }
                         reader.Close();
                     }

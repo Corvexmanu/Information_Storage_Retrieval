@@ -47,7 +47,8 @@ namespace LuceneAdvancedSearchApplication
             luceneIndexDirectory = null;
             writer = null;
             //analyzer = new Lucene.Net.Analysis.SimpleAnalyzer();     // Using simple analyzer for baseline system 
-            analyzer = new Lucene.Net.Analysis.Snowball.SnowballAnalyzer(Lucene.Net.Util.Version.LUCENE_30, "English", stopWords); //Using Standard Analyzer to apply steming and removing of stop words.
+            //analyzer = new Lucene.Net.Analysis.Snowball.SnowballAnalyzer(Lucene.Net.Util.Version.LUCENE_30, "English", stopWords); //Using Standard Analyzer to apply steming and removing of stop words.
+            analyzer = new Lucene.Net.Analysis.Standard.StandardAnalyzer(Lucene.Net.Util.Version.LUCENE_30);
             parser = new QueryParser(Lucene.Net.Util.Version.LUCENE_30, TEXT_FN, analyzer);
             newSimilarity = new NewSimilarity();
             
@@ -107,45 +108,51 @@ namespace LuceneAdvancedSearchApplication
                     string text = reader.ReadToEnd();   // Read the whole text
 
                     Regex rxi = new Regex(".I ", RegexOptions.Compiled);     // Set the RE to match first sentence of abstract
-                    Regex rxa = new Regex(".A\n", RegexOptions.Compiled);
-                    Regex rxb = new Regex(".B\n", RegexOptions.Compiled);
-                    Regex rxt = new Regex(".T\n", RegexOptions.Compiled);
-                    Regex rxw = new Regex(".W\n", RegexOptions.Compiled);
+                    Regex rxa = new Regex(".A\r\n", RegexOptions.Compiled);
+                    Regex rxb = new Regex(".B\r\n", RegexOptions.Compiled);
+                    Regex rxt = new Regex(".T\r\n", RegexOptions.Compiled);
+                    Regex rxw = new Regex(".W\r\n", RegexOptions.Compiled);
                     MatchCollection abst_i = rxi.Matches(text);
                     MatchCollection abst_a = rxa.Matches(text);
                     MatchCollection abst_b = rxb.Matches(text);
                     MatchCollection abst_t = rxt.Matches(text);
                     MatchCollection abst_w = rxw.Matches(text);
 
+                    Console.WriteLine("This Length is:  " + abst_i.Count);
+                    Console.WriteLine("This Length is:  " + abst_a.Count);
+                    Console.WriteLine("This Length is:  " + abst_b.Count);
+                    Console.WriteLine("This Length is:  " + abst_t.Count);
+                    Console.WriteLine("This Length is:  " + abst_w.Count);
+
                     if (abst_i.Count > 0 && abst_a.Count > 0 && abst_b.Count > 0 && abst_t.Count > 0 && abst_w.Count > 0)
                     {
                         int indexI = text.IndexOf(".I ");     // Get ID starting index
                         if (abst_i.Count > 1)                 // When having more than 1 .I
                             text = text.Substring(0, indexI + 3) + text.Substring(indexI + 3).Replace(".I ", " ");  // Remove the others except the first one
-                        int indexT = text.IndexOf(".T\n");    // Get title starting index
+                        int indexT = text.IndexOf(".T\r\n");    // Get title starting index                        
                         if (abst_t.Count > 1)                 // When having more than 1 .T
-                            text = text.Substring(0, indexT + 3) + text.Substring(indexT + 3).Replace(".T\n", "");  // Remove the others except the first one
-                        int indexA = text.IndexOf(".A\n");    // Get author starting index
+                            text = text.Substring(0, indexT + 3) + text.Substring(indexT + 3).Replace(".T\r\n", "");  // Remove the others except the first one
+                        int indexA = text.IndexOf(".A\r\n");    // Get author starting index
                         if (abst_a.Count > 1)                 // When having more than 1 .A
-                            text = text.Substring(0, indexA + 3) + text.Substring(indexA + 3).Replace(".A\n", "");  // Remove the others except the first one
-                        int indexB = text.IndexOf(".B\n");    // Get bibliography starting index
+                            text = text.Substring(0, indexA + 3) + text.Substring(indexA + 3).Replace(".A\r\n", "");  // Remove the others except the first one
+                        int indexB = text.IndexOf(".B\r\n");    // Get bibliography starting index
                         if (abst_b.Count > 1)                 // When having more than 1 .B
-                            text = text.Substring(0, indexB + 3) + text.Substring(indexB + 3).Replace(".B\n", "");  // Remove the others except the first one
-                        int indexW = text.IndexOf(".W\n");    // Get abstract starting index
+                            text = text.Substring(0, indexB + 3) + text.Substring(indexB + 3).Replace(".B\r\n", "");  // Remove the others except the first one
+                        int indexW = text.IndexOf(".W\r\n");    // Get abstract starting index
                         if (abst_w.Count > 1)                 // When having more than 1 .W
                             text = text.Substring(0, indexW + 3) + text.Substring(indexW + 3).Replace(".W\n", "");  // Remove the others except the first one
 
                            
 
-                        indexA = text.IndexOf(".A\n");  // Get again the index just in case it has been changed
-                        indexB = text.IndexOf(".B\n");  // Get again the index just in case it has been changed
+                        indexA = text.IndexOf(".A\r\n");  // Get again the index just in case it has been changed
+                        indexB = text.IndexOf(".B\r\n");  // Get again the index just in case it has been changed
                         string title = text.Substring(indexT + 3, ((indexA - 1 - (indexT + 3)) > 0) ? (indexA - 1 - (indexT + 3)) : 0);     // Get title string
                         string author = text.Substring(indexA + 3, ((indexB - 1 - (indexA + 3)) > 0) ? (indexB - 1 - (indexA + 3)) : 0);    // Get author string
 
                         //This section is focused on removing the title from the abstract
-                        int startTitle = text.IndexOf(".T\n") + 2;    // Get title starting index
-                        int startAbstract = text.IndexOf(".A\n") - 1;    // Get index before author starting  
-                        int startWords = text.IndexOf(".W\n");    // Get Words Starting index
+                        int startTitle = text.IndexOf(".T\r\n") + 2;    // Get title starting index
+                        int startAbstract = text.IndexOf(".A\r\n") - 1;    // Get index before author starting  
+                        int startWords = text.IndexOf(".W\r\n");    // Get Words Starting index
                         int lengthOfTitle = startAbstract - startTitle; //Calculate length of title 
                         text = text.Remove(startWords + 2, lengthOfTitle); //Remove title from Words section.
 
@@ -471,7 +478,7 @@ namespace LuceneAdvancedSearchApplication
                     string text = doc.Get(TEXT_FN).ToString();  // Get document contents by fields    
                     string score = scoreDoc.Score.ToString();   // Get document score
                     int idxI = text.IndexOf(".I ") + 3;   // Get ID starting index
-                    int idxT = text.IndexOf(".T\n");    // Get title starting index
+                    int idxT = text.IndexOf(".T\r\n");    // Get title starting index
                     string id = text.Substring(idxI, idxT - 1 - idxI);    // Get ID string
                     docsIdsListBase.Add(id.Trim());
                     valueListBase.Add(scoreDoc.Score);
@@ -544,7 +551,7 @@ namespace LuceneAdvancedSearchApplication
 
         public string PreProcess (PorterStemmer myStemmer, string text)
         {
-            char[] splits = new char[] { ' ', '\t', '\'', '"', '-', '(', ')', ',', '’', '\n', ':', ';', '?', '.', '!' };    // Set token delimiters
+            char[] splits = new char[] { ' ', '\t', '\'', '"', '-', '(', ')', ',', '’', '\n', '\r', ':', ';', '?', '.', '!' };    // Set token delimiters
             string[] tokens =  text.ToLower().Split(splits, StringSplitOptions.RemoveEmptyEntries);     // Tokenisation
 
             string ProcessedText = "";
